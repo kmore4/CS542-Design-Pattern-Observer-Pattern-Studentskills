@@ -1,0 +1,5 @@
+1124	[Skill9, Skill8, Skill7]
+1134	[Skill9, Skill8]
+1234	[Skill3, Skill1, Skill2, Skill5, Skill4, Skill7]
+2333	[Skill9, Skill100, Skill7, Skill6, Skill2, Skill3, Skill4]
+2345	[Skill0, Skill7, Skill8, Skill5, Skill3, Skill4, Skill3, Skill9]
